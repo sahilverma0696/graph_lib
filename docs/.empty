@@ -1,0 +1,4 @@
+1. connections of 3 units takes place in the controller 
+graphcore just contains the id of the nodes 
+
+2. The nodes will be made in one class and then added to graphcore 
